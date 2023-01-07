@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @badal091
-- 👀 I’m interested in Signal Processing and Cryptography
+- 👀 I’m interested in Signal Processing, Cryptography and Machine Learning
 - 🌱 I’m currently at IIT Bombay
 - 📫 How to reach me badalvarshney11@gmail.com
 
